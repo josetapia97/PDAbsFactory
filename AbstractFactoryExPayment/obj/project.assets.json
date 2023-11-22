@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jose\\Desktop\\Proyectos\\dotNet\\DesignPatterns\\AbstractFactoryEx1\\AbstractFactoryEx1\\AbstractFactoryEx1.csproj",
-      "projectName": "AbstractFactoryEx1",
-      "projectPath": "C:\\Users\\jose\\Desktop\\Proyectos\\dotNet\\DesignPatterns\\AbstractFactoryEx1\\AbstractFactoryEx1\\AbstractFactoryEx1.csproj",
+      "projectUniqueName": "C:\\Users\\jose\\Desktop\\Proyectos\\dotNet\\DesignPatterns\\AbstractFactoryEx1\\AbstractFactoryExPayment\\AbstractFactoryExPayment.csproj",
+      "projectName": "AbstractFactoryExPayment",
+      "projectPath": "C:\\Users\\jose\\Desktop\\Proyectos\\dotNet\\DesignPatterns\\AbstractFactoryEx1\\AbstractFactoryExPayment\\AbstractFactoryExPayment.csproj",
       "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jose\\Desktop\\Proyectos\\dotNet\\DesignPatterns\\AbstractFactoryEx1\\AbstractFactoryEx1\\obj\\",
+      "outputPath": "C:\\Users\\jose\\Desktop\\Proyectos\\dotNet\\DesignPatterns\\AbstractFactoryEx1\\AbstractFactoryExPayment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

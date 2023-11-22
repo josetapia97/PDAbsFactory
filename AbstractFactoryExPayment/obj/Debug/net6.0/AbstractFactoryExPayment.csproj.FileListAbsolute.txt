@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryExPayment\bin\Debug\net6.0\AbstractFactoryExPayment.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryExPayment\bin\Debug\net6.0\AbstractFactoryExPayment.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryExPayment\bin\Debug\net6.0\AbstractFactoryExPayment.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryExPayment\bin\Debug\net6.0\AbstractFactoryExPayment.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryExPayment\bin\Debug\net6.0\AbstractFactoryExPayment.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryExPayment\obj\Debug\net6.0\AbstractFactoryExPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryExPayment\obj\Debug\net6.0\AbstractFactoryExPayment.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryExPayment\obj\Debug\net6.0\AbstractFactoryExPayment.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryExPayment\obj\Debug\net6.0\AbstractFactoryExPayment.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryExPayment\obj\Debug\net6.0\AbstractFactoryExPayment.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryExPayment\obj\Debug\net6.0\refint\AbstractFactoryExPayment.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryExPayment\obj\Debug\net6.0\AbstractFactoryExPayment.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryExPayment\obj\Debug\net6.0\AbstractFactoryExPayment.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryExPayment\obj\Debug\net6.0\ref\AbstractFactoryExPayment.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R7bn9WLzrq8vJR8/NReelYvFPbuS6VvA0qo3qhMW1KHLdyqTVHjhTGvYZrOV3Bae+B2zvZgKwPAc5JL6YAP9pQ==",
+  "dgSpecHash": "VdySKdSlA5EnyonNrasLbq/6wPZMguDnDS+uR06SeoogR6RobOL0gHRYvbm7Bfzi+okRrZr/vacpphqNpw1Ilg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose\\Desktop\\Proyectos\\dotNet\\AbstractFactoryEx1\\AbstractFactoryEx1\\AbstractFactoryEx1.csproj",
+  "projectFilePath": "C:\\Users\\jose\\Desktop\\Proyectos\\dotNet\\DesignPatterns\\AbstractFactoryEx1\\AbstractFactoryEx1\\AbstractFactoryEx1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

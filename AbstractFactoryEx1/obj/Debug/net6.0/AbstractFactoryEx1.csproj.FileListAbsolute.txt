@@ -12,3 +12,17 @@ C:\Users\jose\Desktop\Proyectos\dotNet\AbstractFactoryEx1\AbstractFactoryEx1\obj
 C:\Users\jose\Desktop\Proyectos\dotNet\AbstractFactoryEx1\AbstractFactoryEx1\obj\Debug\net6.0\AbstractFactoryEx1.pdb
 C:\Users\jose\Desktop\Proyectos\dotNet\AbstractFactoryEx1\AbstractFactoryEx1\obj\Debug\net6.0\AbstractFactoryEx1.genruntimeconfig.cache
 C:\Users\jose\Desktop\Proyectos\dotNet\AbstractFactoryEx1\AbstractFactoryEx1\obj\Debug\net6.0\ref\AbstractFactoryEx1.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryEx1\bin\Debug\net6.0\AbstractFactoryEx1.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryEx1\bin\Debug\net6.0\AbstractFactoryEx1.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryEx1\bin\Debug\net6.0\AbstractFactoryEx1.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryEx1\bin\Debug\net6.0\AbstractFactoryEx1.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryEx1\bin\Debug\net6.0\AbstractFactoryEx1.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryEx1\obj\Debug\net6.0\AbstractFactoryEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryEx1\obj\Debug\net6.0\AbstractFactoryEx1.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryEx1\obj\Debug\net6.0\AbstractFactoryEx1.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryEx1\obj\Debug\net6.0\AbstractFactoryEx1.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryEx1\obj\Debug\net6.0\AbstractFactoryEx1.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryEx1\obj\Debug\net6.0\refint\AbstractFactoryEx1.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryEx1\obj\Debug\net6.0\AbstractFactoryEx1.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryEx1\obj\Debug\net6.0\AbstractFactoryEx1.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\AbstractFactoryEx1\AbstractFactoryEx1\obj\Debug\net6.0\ref\AbstractFactoryEx1.dll
